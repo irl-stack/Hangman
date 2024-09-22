@@ -1,2 +1,3 @@
-# Hangman
-Hangman game coded in python
+# HANGMAN IN PYTHON
+
+A simple python game
